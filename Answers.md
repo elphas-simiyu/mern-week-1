@@ -186,11 +186,4 @@ db.books.createIndex({ author: 1 })  // Ascending index
 
 ---
 
-### **10. Testing**
-
-- Use **MongoDB Shell** or **MongoDB Compass**  to test the data you've inserted, updated, or deleted.
-- Verify that your queries return the expected results by running them and checking the output.
-
----
-
 
